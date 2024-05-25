@@ -9,7 +9,7 @@ import {CommonBase} from "forge-std/Base.sol";
 import {StdCheats} from "forge-std/StdCheats.sol";
 import {StdUtils} from "forge-std/StdUtils.sol";
 
-// Actor Manager : basically testing varios scenarios (multiple handlers)
+// Actor Manager : basically testing various scenarios (multiple handlers)
 
 contract ActorManager is CommonBase, StdCheats, StdUtils {
     Handler[] public handlers;
