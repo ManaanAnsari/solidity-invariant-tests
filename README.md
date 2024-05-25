@@ -2,6 +2,8 @@
 
 This repository provides resources and examples for understanding and implementing Invariant Testing in foundry framework.
 
+[Blog](https://manaanansari.medium.com/invariant-testing-explained-stateless-and-stateful-fuzzing-in-foundry-529292b7e112#)
+
 ## Installation
 
 Clone the repository to your local machine:
